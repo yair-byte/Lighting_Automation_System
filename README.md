@@ -9,14 +9,17 @@ For each sector there are 4 operating modes:
 To configure the system the user interacts with a screen and a keyboard.
 
 When starting the system, the main screen will show the current system time, as well as the lights on in the different sectors:
+
 <img width="173" alt="Captura de pantalla 2023-01-07 172305" src="https://user-images.githubusercontent.com/56457143/211169133-c323c613-b776-4944-a2de-633cebd0cce4.png">
 
 We see that it is 12:31 pm and the lights in bedroom 2, the bathroom and the exterior lights are on.
 To enter the configuration mode, press the ENTER key. Once there, we can observe the configuration for the different sectors.
 To access the system time configuration we must go down to the last item:
+
 <img width="173" alt="Captura de pantalla 2023-01-07 172327" src="https://user-images.githubusercontent.com/56457143/211169172-5624234b-3fed-4809-babb-19a349f341fb.png">
 
 If we enter the configuration of a sector we can see which of the four available modes is activated:
+
 <img width="174" alt="Captura de pantalla 2023-01-07 172358" src="https://user-images.githubusercontent.com/56457143/211169195-0e4d4b7e-6c48-4407-837e-fd06a5750791.png">
 
 In this case we see that the Light sensor mode is activated.
