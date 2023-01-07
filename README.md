@@ -1,4 +1,7 @@
 # Lighting_Automation_System
+
+Proteus 8 Required!!
+
 Lighting automation system with 6 sectors
 
 For each sector there are 4 operating modes:
