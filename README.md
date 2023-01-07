@@ -27,6 +27,7 @@ To activate one of the modes, we must indicate which one with the cursor and pre
 It should be noted that if at any time during the course of configuration the EXIT key is pressed, all the changes generated will not be saved, and the main screen will be displayed again.
 
 Another important issue is that only one of the four modes can be active at any given time.
+
 If we want to configure a sector to work with the schedule mode (Chrono Mode) we must first indicate the time at which the lights should be turned on and then the time at which they should be turned off. An important fact is that the configuration
 of the minutes it can only be done 30 in 30 minutes; that is to say XX: 00 hs or XX: 30 hs.
 Whenever a time is to be set, the user will first be prompted to change the hour, then press ENTER to set the minutes.
