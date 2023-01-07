@@ -25,11 +25,15 @@ If we enter the configuration of a sector we can see which of the four available
 In this case we see that the Light sensor mode is activated.
 To activate one of the modes, we must indicate which one with the cursor and press the ENTER key. If the mode requires additional configuration then it will prompt the user. When you finish configuring a mode successfully, it will show on the screen that the configuration was saved successfully.
 It should be noted that if at any time during the course of configuration the EXIT key is pressed, all the changes generated will not be saved, and the main screen will be displayed again.
+
 Another important issue is that only one of the four modes can be active at any given time.
 If we want to configure a sector to work with the schedule mode (Chrono Mode) we must first indicate the time at which the lights should be turned on and then the time at which they should be turned off. An important fact is that the configuration
 of the minutes it can only be done 30 in 30 minutes; that is to say XX: 00 hs or XX: 30 hs.
 Whenever a time is to be set, the user will first be prompted to change the hour, then press ENTER to set the minutes.
+
 For the configuration of the light sensor mode, we will have to configure three sensitivity options (LOW, MID, HIGH).
+
 Motion sensor setup and normal mode do not require additional setup.
+
 The deactivated mode or Normal mode, what it will do is deactivate the other three modes so that the user can turn the lights on or off outside of this system.
 This mode is the one found by default in all sectors. In this instance the lights are off.
